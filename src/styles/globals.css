@@ -25,3 +25,27 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.rwanda-theme {
+  background: #000 url('../../public/images/bg/Visit-Rwanda-Volcano-1920x1280.jpg') no-repeat;
+  background-size: cover;
+  z-index: -1;
+  filter: blur(1px);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.foreground{
+  backdrop-filter: blur(10px);
+}
+
+/* Sweden theme */
+.sweden-theme {
+  background: #000 url('../../public/images/bg/sweden-winter.jpg') no-repeat;
+  background-size: cover;
+  z-index: -1;
+  filter: blur(1px);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}

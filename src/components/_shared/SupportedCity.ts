@@ -1,10 +1,10 @@
 export const SupportedCity = [
     {
-        "city": "Kigali",
+        "city": "Musanze",
         "country": "Rwanda",
     },
     {
-        "city": "Musanze",
+        "city": "Kigali",
         "country": "Rwanda",
     },
     {
